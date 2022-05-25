@@ -4,8 +4,8 @@ type = "webpack"
 account_id = "8ecad5e6ddf190bc3ea8691c8efccbc6"
 
 workers_dev = false
-route = "https://test.cbcache.com/*"
-zone_id = "f825ef3f6a4184a20a1339ea56b02995"
+route = "https://test.webcose.tk/*"
+zone_id = "d3c02244f7db06477682aaf9851f6c4e"
 compatibility_date = "2022-05-25"
 
 [site]
