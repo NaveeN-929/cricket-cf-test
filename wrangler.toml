@@ -1,8 +1,8 @@
 name = "test"
 type = "webpack"
-workers_dev = true
-route = "cbcache.com"
-zone_id = "f825ef3f6a4184a20a1339ea56b02995"
+workers_dev = false
+route = "webcose.tk"
+zone_id = "d3c02244f7db06477682aaf9851f6c4e"
 
 [site]
 bucket = "./site"
