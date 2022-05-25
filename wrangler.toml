@@ -1,4 +1,4 @@
-name = "cbcache"
+name = "test"
 type = "webpack"
 workers_dev = true
 route = "cbcache.com"
