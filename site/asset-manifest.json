@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "http://test.cf-tests.workers.dev/static/css/main.6a8ddf9e.css",
-    "main.js": "http://test.cf-tests.workers.dev/static/js/main.1e6fa37c.js",
-    "static/media/betting_img.png": "http://test.cf-tests.workers.dev/static/media/betting_img.dcceb6d5ad7b746b98e7.png",
-    "static/media/sol_icon.png": "http://test.cf-tests.workers.dev/static/media/sol_icon.2c893b4c1b0225b83c82.png",
-    "index.html": "http://test.cf-tests.workers.dev/index.html",
-    "main.6a8ddf9e.css.map": "http://test.cf-tests.workers.dev/static/css/main.6a8ddf9e.css.map",
-    "main.1e6fa37c.js.map": "http://test.cf-tests.workers.dev/static/js/main.1e6fa37c.js.map"
+    "main.css": "https://test.webcose.tk/static/css/main.6a8ddf9e.css",
+    "main.js": "https://test.webcose.tk/static/js/main.c939dced.js",
+    "static/media/betting_img.png": "https://test.webcose.tk/static/media/betting_img.dcceb6d5ad7b746b98e7.png",
+    "static/media/sol_icon.png": "https://test.webcose.tk/static/media/sol_icon.2c893b4c1b0225b83c82.png",
+    "index.html": "https://test.webcose.tk/index.html",
+    "main.6a8ddf9e.css.map": "https://test.webcose.tk/static/css/main.6a8ddf9e.css.map",
+    "main.c939dced.js.map": "https://test.webcose.tk/static/js/main.c939dced.js.map"
   },
   "entrypoints": [
     "static/css/main.6a8ddf9e.css",
-    "static/js/main.1e6fa37c.js"
+    "static/js/main.c939dced.js"
   ]
 }
