@@ -1,6 +1,6 @@
 name = "test"
 type = "webpack"
-workers_dev = false
+workers_dev = true
 route = "webcose.tk"
 zone_id = "d3c02244f7db06477682aaf9851f6c4e"
 
