@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://static-server-test.fra1.digitaloceanspaces.com/static/css/main.6a8ddf9e.css",
-    "main.js": "https://static-server-test.fra1.digitaloceanspaces.com/static/js/main.7239b909.js",
-    "static/media/betting_img.png": "https://static-server-test.fra1.digitaloceanspaces.com/static/media/betting_img.dcceb6d5ad7b746b98e7.png",
-    "static/media/sol_icon.png": "https://static-server-test.fra1.digitaloceanspaces.com/static/media/sol_icon.2c893b4c1b0225b83c82.png",
-    "index.html": "https://static-server-test.fra1.digitaloceanspaces.com/index.html",
-    "main.6a8ddf9e.css.map": "https://static-server-test.fra1.digitaloceanspaces.com/static/css/main.6a8ddf9e.css.map",
-    "main.7239b909.js.map": "https://static-server-test.fra1.digitaloceanspaces.com/static/js/main.7239b909.js.map"
+    "main.css": "https://cbcache.cf-tests.workers.dev/static/css/main.6a8ddf9e.css",
+    "main.js": "https://cbcache.cf-tests.workers.dev/static/js/main.cffbb13e.js",
+    "static/media/betting_img.png": "https://cbcache.cf-tests.workers.dev/static/media/betting_img.dcceb6d5ad7b746b98e7.png",
+    "static/media/sol_icon.png": "https://cbcache.cf-tests.workers.dev/static/media/sol_icon.2c893b4c1b0225b83c82.png",
+    "index.html": "https://cbcache.cf-tests.workers.dev/index.html",
+    "main.6a8ddf9e.css.map": "https://cbcache.cf-tests.workers.dev/static/css/main.6a8ddf9e.css.map",
+    "main.cffbb13e.js.map": "https://cbcache.cf-tests.workers.dev/static/js/main.cffbb13e.js.map"
   },
   "entrypoints": [
     "static/css/main.6a8ddf9e.css",
-    "static/js/main.7239b909.js"
+    "static/js/main.cffbb13e.js"
   ]
 }
