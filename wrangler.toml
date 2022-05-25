@@ -1,0 +1,13 @@
+name = "dummy"
+type = "webpack"
+
+account_id = "8ecad5e6ddf190bc3ea8691c8efccbc6"
+
+workers_dev = false
+route = "https://test.cbcache.com/*"
+zone_id = "f825ef3f6a4184a20a1339ea56b02995"
+compatibility_date = "2022-05-25"
+
+[site]
+bucket = "./site"
+entry-point = "workers-site"
